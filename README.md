@@ -1,5 +1,8 @@
 # DineOn
 Everyday menu of USC dinning hall
+
+https://apps.apple.com/us/app/dineon/id6749644621
+
 ## 📬 Contact & Support
 
 For technical issues, bug reports, or feature requests, please use the following channels:
